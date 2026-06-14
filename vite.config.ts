@@ -49,6 +49,7 @@
         '@': path.resolve(__dirname, './src'),
       },
     },
+    base: '/claude_code_treasure_game-initial/',
     build: {
       target: 'esnext',
       outDir: 'build',
